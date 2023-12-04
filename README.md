@@ -47,7 +47,7 @@
 </pre>
 
 
-                                                                                            
+## Stadisticas                                                                                            
 <!--START_SECTION:waka-->
 
 ```txt
