@@ -11,7 +11,7 @@
 </br>
 
 ## Tecnologías:
-
+<div style="cursor: default">
 [![Kotlin](https://img.shields.io/badge/Kotlin-009848?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white&labelColor=101010)]()
@@ -29,7 +29,7 @@
 
 [![XigmaNAS](https://img.shields.io/badge/XigmaNAS-1A285F?style=for-the-badge&logo=semanticrelease&logoColor=white&labelColor=101010)]()
 [![WearOS](https://img.shields.io/badge/Wear_OS-009688?style=for-the-badge&logo=WearOS&logoColor=white&labelColor=101010)]()
-
+</div>
 ---
                                                                                                    
 <pre>
