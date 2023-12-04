@@ -31,8 +31,6 @@
 [![WearOS](https://img.shields.io/badge/Wear_OS-009688?style=for-the-badge&logo=WearOS&logoColor=white&labelColor=101010)]()
 
 ---
-![GitHub watchers](https://img.shields.io/github/watchers/exequiel-miranda/exequiel-miranda)
-
                                                                                                    
 <pre>
   Mi marca personal >
@@ -56,5 +54,8 @@ XML      0 secs          █████▒░░░░░░░░░░░░�
 Groovy   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
-<!--END_SECTION:waka-->                                                  
+<!--END_SECTION:waka-->     
+
+---
+![GitHub watchers](https://img.shields.io/github/watchers/exequiel-miranda/exequiel-miranda)
                                              
