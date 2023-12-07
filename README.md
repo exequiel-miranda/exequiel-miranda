@@ -60,4 +60,7 @@ Java             0 secs          █▒░░░░░░░░░░░░░�
 
 ---
 ![GitHub watchers](https://img.shields.io/github/watchers/exequiel-miranda/exequiel-miranda)
-                                             
+---
+> "Insluso la gente que afirma que no podemos hacer nada para cambiar nuestro destino, mira antes de cruzar la calle" </br>
+-Stephen Hawking
+                                            
