@@ -51,8 +51,6 @@
 ```txt
 From: 03 December 2023 - To: 09 December 2023
 
-Total Time: 11 hrs 12 mins
-
 Java             6 hrs 28 mins   >>>>>>>>>>>>>>-----------   57.34 %
 Kotlin           4 hrs 6 mins    >>>>>>>>>----------------   36.46 %
 XML              19 mins         >------------------------   02.94 %
