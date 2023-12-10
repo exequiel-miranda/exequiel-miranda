@@ -69,5 +69,9 @@ Groovy           0 secs          -------------------------   00.00 %
 ![GitHub watchers](https://img.shields.io/github/watchers/exequiel-miranda/exequiel-miranda)
 ---
 > "Insluso la gente que afirma que no podemos hacer nada para cambiar nuestro destino, mira antes de cruzar la calle" </br>
--Stephen Hawking
-                                            
+-Stephen Hawking </br>
+</br>
+
+> "Una interfaz de usuario es como una broma, si la tienes que explicar no es tan buena" </br>
+-Anonimo </br>
+</br>
