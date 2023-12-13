@@ -75,3 +75,7 @@ Groovy           0 secs          -------------------------   00.00 %
 > "Una interfaz de usuario es como una broma, si la tienes que explicar no es tan buena" </br>
 -Anonimo </br>
 </br>
+
+> "No podemos controlar las cosas, pero si podemos controlar nuestra actitud hacia ellas"  </br>
+-Séneca </br>
+ </br>
