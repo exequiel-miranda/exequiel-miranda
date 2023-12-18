@@ -2,7 +2,7 @@
 
 </br>
 
-🎓 Ingeniero en Sistemas y Computación con especialización en Administración y Soporte de Data Center </br>
+🎓 Ingeniero en Sistemas con especialización en Administración y Soporte de Data Center </br>
 🖥️ Programador de aplicaciones web, desktop, android, iOS e hibridas </br>
 🙎🏻 Docente </br>
 💻 Usuario Linux
