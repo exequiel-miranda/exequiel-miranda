@@ -93,7 +93,7 @@ Git              0 secs          -------------------------   00.05 %
          . . . ...."'
          .. . ."'                  
         .
-  "Recuerda mirar hacia las estrellas y no hacia abajo a tus pies. 
+ "Recuerda mirar hacia las estrellas y no hacia abajo a tus pies. 
   Trata de dar sentido a lo que ves y pregunta por qué existe el universo. 
   Sé curioso."
 ------------------------------------------------
