@@ -39,7 +39,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2023 - To: 23 December 2023
+From: 03 December 2023 - To: 24 December 2023
 
 Java             9 hrs 6 mins    >>>>>>>>>>>>-------------   46.69 %
 Kotlin           5 hrs 39 mins   >>>>>>>------------------   28.96 %
