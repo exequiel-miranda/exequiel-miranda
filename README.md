@@ -102,7 +102,7 @@ Git              1 min           -------------------------   00.10 %
 
 ---
 <details>
-  <u><summary>Puedes conocer a alguien por sus canciones favoritas, conoceme: </summary></u>
+  <summary>Puedes conocer a alguien por sus canciones favoritas, conoceme ▼ </summary>
  </br>
 The Chainsmokers & Coldplay - Something Just Like This </br>
 Tai Verdes - last day on earth</br>
