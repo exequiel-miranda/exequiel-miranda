@@ -99,3 +99,32 @@ Git              1 min           -------------------------   00.10 %
 ------------------------------------------------
                                            
 </pre>
+
+---
+<details>
+  <u><summary>Puedes conocer a alguien por sus canciones favoritas, conoceme: </summary></u>
+ </br>
+The Chainsmokers & Coldplay - Something Just Like This </br>
+Tai Verdes - last day on earth</br>
+La La Love You & Samuraï - El principio de algo</br>
+Cheat Codes - Feels Great</br>
+The Chainsmokers - Don't Let Me Down (Illenium Remix)</br>
+DUKI - Malbec</br>
+Aerosmith - Crazy</br>
+The Chainsmokers & Coldplay - Something Just Like This (BOXINBOX & Lionsize & Vyel Cover Remix)</br>
+La M.O.D.A - 1932</br>
+Axwell /\ Ingrosso - More Than You Know</br>
+Bruno Mars - Locked Out Of Heaven</br>
+Icona Pop - All Night</br>
+Rayden - La mujer cactus y el hombre globo</br>
+Twenty one pilots - Tear in my heart</br>
+Payphone - Maroon 5 ft. Wiz Khalifa</br>
+Gym Class Heroes - Stereo Hearts</br>
+Lérica, La La Love You - La Teoría</br>
+Leiva - No Te Preocupes por Mi</br>
+Taburete - Aviones sin fuel</br>
+Leiva - A ti te ocurre algo</br>
+Vetusta morla - Copenhague</br>
+Lágrimas de sangre - voy a celebrarlo</br>
+Dorian - Cualquier otra parte</br>
+</details>
