@@ -35,7 +35,7 @@
 🎓 Nivel de inglés: *******************--------- 80%
 
 
-## Stadisticas (Generadas automaticamente)                                                                                           
+## Estadisticas (Generadas automaticamente)                                                                                           
 <!--START_SECTION:waka-->
 
 ```txt
