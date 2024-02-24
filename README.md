@@ -70,7 +70,7 @@ Gradle           2 mins          -------------------------   00.07 %
 -Séneca </br>
  </br>
  
-🫀 Zenón de Citio, Nietzsche 
+>🫀 Zenón de Citio y Nietzsche 
  </br>
 ---                                                                                                   
 <pre>
