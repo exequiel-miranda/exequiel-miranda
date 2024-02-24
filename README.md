@@ -69,7 +69,9 @@ Gradle           2 mins          -------------------------   00.07 %
 > "No podemos controlar las cosas, pero si podemos controlar nuestra actitud hacia ellas"  </br>
 -Séneca </br>
  </br>
-
+ 
+🫀 Zenón de Citio, Nietzsche 
+ </br>
 ---                                                                                                   
 <pre>
                                                      ___
