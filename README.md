@@ -118,6 +118,7 @@ Axwell /\ Ingrosso - More Than You Know</br>
 Bruno Mars - Locked Out Of Heaven</br>
 Icona Pop - All Night</br>
 Rayden - La mujer cactus y el hombre globo</br>
+Rayden - Haz de luz </br>
 Twenty one pilots - Tear in my heart</br>
 Payphone - Maroon 5 ft. Wiz Khalifa</br>
 Gym Class Heroes - Stereo Hearts</br>
