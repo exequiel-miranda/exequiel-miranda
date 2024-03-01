@@ -56,7 +56,7 @@ Gradle            2 mins          -------------------------   00.07 %
 <!--END_SECTION:waka-->     
 
 ---
-![GitHub watchers](https://img.shields.io/github/watchers/exequiel-miranda/exequiel-miranda)
+### Canal de youtube: www.youtube.com/@exequielmiranda314
 ---
 > "Insluso la gente que afirma que no podemos hacer nada para cambiar nuestro destino, mira antes de cruzar la calle" </br>
 -Stephen Hawking </br>
