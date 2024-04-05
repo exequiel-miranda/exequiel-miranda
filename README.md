@@ -42,14 +42,14 @@ Microsoft Technology Associate – 2017
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2023 - To: 02 April 2024
+From: 03 December 2023 - To: 03 April 2024
 
-Kotlin            47 hrs 35 mins  >>>>>>>>>>>>>------------   53.93 %
-XML               25 hrs 23 mins  >>>>>>>------------------   28.77 %
-Java              9 hrs 24 mins   >>>----------------------   10.67 %
-HTML              3 hrs 14 mins   >------------------------   03.67 %
-GitIgnore file    1 hr 11 mins    -------------------------   01.35 %
-JavaScript        24 mins         -------------------------   00.47 %
+Kotlin            47 hrs 41 mins  >>>>>>>>>>>>>------------   53.12 %
+XML               26 hrs 48 mins  >>>>>>>------------------   29.87 %
+Java              9 hrs 24 mins   >>>----------------------   10.49 %
+HTML              3 hrs 14 mins   >------------------------   03.61 %
+GitIgnore file    1 hr 11 mins    -------------------------   01.33 %
+JavaScript        24 mins         -------------------------   00.46 %
 TOML              17 mins         -------------------------   00.32 %
 Dart              13 mins         -------------------------   00.25 %
 CSS               13 mins         -------------------------   00.25 %
