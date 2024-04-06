@@ -5,7 +5,8 @@
 🎓 Ingeniero en Sistemas con especialización en Administración y Soporte de Data Center </br>
 🖥️ Programador de aplicaciones web, desktop, android, iOS e hibridas </br>
 🙎🏻 Docente </br>
-💻 Usuario Linux
+💻 Usuario Linux</br>
+📨 Contacto: exequiel.miranda314@gmail.com
 </br>
 </br>
 </br>
@@ -35,8 +36,14 @@
 ## Estudios
 🎓 Nivel de inglés: *******************--------- 80% </br></br>
 Certificación: Database Administration Fundamentals</br>
-Microsoft Technology Associate – 2017
-
+Microsoft Technology Associate – 2017 
+</br></br>
+Diplomado: Defensoría de Derechos Humanos</br>
+Universidad Centroamericana José Simeón Cañas UCA - 2019 </br></br>
+Diplomado: Lengua de señas (ASL) nivel 1</br>
+Universidad Don Bosco - 2019</br></br>
+Taller: Ciberseguridad, análisis y manejo de evidencia digital</br>
+Universidad Tecnológica de El Salvador - 2019
 
 ## Estadisticas (Generadas automaticamente)                                                                                           
 <!--START_SECTION:waka-->
