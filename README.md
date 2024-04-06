@@ -42,7 +42,7 @@ Microsoft Technology Associate – 2017
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2023 - To: 03 April 2024
+From: 03 December 2023 - To: 04 April 2024
 
 Kotlin            47 hrs 41 mins  >>>>>>>>>>>>>------------   53.12 %
 XML               26 hrs 48 mins  >>>>>>>------------------   29.87 %
