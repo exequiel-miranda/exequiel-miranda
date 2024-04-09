@@ -33,18 +33,6 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white&labelColor=101010)]()
 
 ---
-## Estudios
-🎓 Nivel de inglés: *******************--------- 80% </br></br>
-Certificación: Database Administration Fundamentals</br>
-Microsoft Technology Associate – 2017 
-</br></br>
-Diplomado: Defensoría de Derechos Humanos</br>
-Universidad Centroamericana José Simeón Cañas UCA - 2019 </br></br>
-Diplomado: Lengua de señas (ASL) nivel 1</br>
-Universidad Don Bosco - 2019</br></br>
-Taller: Ciberseguridad, análisis y manejo de evidencia digital</br>
-Universidad Tecnológica de El Salvador - 2019
-
 ## Estadisticas (Generadas automaticamente)                                                                                           
 <!--START_SECTION:waka-->
 
@@ -65,6 +53,18 @@ Other             5 mins          -------------------------   00.09 %
 
 <!--END_SECTION:waka-->     
 
+---
+## Estudios
+🎓 Nivel de inglés: *******************--------- 80% </br></br>
+Certificación: Database Administration Fundamentals</br>
+Microsoft Technology Associate – 2017 
+</br></br>
+Diplomado: Defensoría de Derechos Humanos</br>
+Universidad Centroamericana José Simeón Cañas UCA - 2019 </br></br>
+Diplomado: Lengua de señas (ASL) nivel 1</br>
+Universidad Don Bosco - 2019</br></br>
+Taller: Ciberseguridad, análisis y manejo de evidencia digital</br>
+Universidad Tecnológica de El Salvador - 2019
 ---
 ### Canal de youtube: www.youtube.com/@exequielmiranda314
 ---
