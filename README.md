@@ -12,7 +12,6 @@
 </br>
 
 ## Tecnologías:
-
 [![Kotlin](https://img.shields.io/badge/Kotlin-009848?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=101010)]()
 [![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&labelColor=101010)]()
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white&labelColor=101010)]()
@@ -52,10 +51,9 @@ Other             5 mins          -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->     
-
 ---
 ## Estudios
-🎓 Nivel de inglés: *******************--------- 80% </br></br>
+<p> 🎓 Nivel de inglés: *******************--------- 80% </br></br>
 Certificación: Database Administration Fundamentals</br>
 Microsoft Technology Associate – 2017 
 </br></br>
@@ -64,7 +62,9 @@ Universidad Centroamericana José Simeón Cañas UCA - 2019 </br></br>
 Diplomado: Lengua de señas (ASL) nivel 1</br>
 Universidad Don Bosco - 2019</br></br>
 Taller: Ciberseguridad, análisis y manejo de evidencia digital</br>
-Universidad Tecnológica de El Salvador - 2019
+Universidad Tecnológica de El Salvador - 2019</p>
+
+
 ---
 ### Canal de youtube: www.youtube.com/@exequielmiranda314
 ---
