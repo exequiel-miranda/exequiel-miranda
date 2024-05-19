@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2023 - To: 16 May 2024
+From: 03 December 2023 - To: 17 May 2024
 
 Kotlin                 99 hrs 20 mins  >>>>>>>>>>>>>>-----------   56.91 %
 XML                    57 hrs 3 mins   >>>>>>>>-----------------   32.69 %
