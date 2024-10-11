@@ -36,14 +36,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2023 - To: 08 October 2024
+From: 03 December 2023 - To: 09 October 2024
 
-Kotlin                 236 hrs 53 mins >>>>>>>>>>>>>>>----------   58.20 %
-XML                    106 hrs 53 mins >>>>>>>------------------   26.26 %
-Java                   52 hrs 6 mins   >>>----------------------   12.80 %
-HTML                   3 hrs 14 mins   -------------------------   00.80 %
-GitIgnore file         2 hrs 55 mins   -------------------------   00.72 %
-TOML                   1 hr 19 mins    -------------------------   00.33 %
+Kotlin                 236 hrs 53 mins >>>>>>>>>>>>>>-----------   57.94 %
+XML                    106 hrs 53 mins >>>>>>>------------------   26.14 %
+Java                   53 hrs 53 mins  >>>----------------------   13.18 %
+HTML                   3 hrs 14 mins   -------------------------   00.79 %
+GitIgnore file         2 hrs 55 mins   -------------------------   00.71 %
+TOML                   1 hr 19 mins    -------------------------   00.32 %
 Markdown               1 hr 17 mins    -------------------------   00.32 %
 Java Properties        37 mins         -------------------------   00.15 %
 JavaScript             24 mins         -------------------------   00.10 %
