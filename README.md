@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2023 - To: 12 September 2025
+From: 03 December 2023 - To: 13 September 2025
 
 Kotlin                 238 hrs 32 mins >>>>>>>>-----------------   31.39 %
 JavaScript             195 hrs 7 mins  >>>>>>-------------------   25.68 %
