@@ -36,13 +36,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2023 - To: 24 November 2025
+From: 03 December 2023 - To: 25 November 2025
 
 Kotlin                 238 hrs 46 mins >>>>>>>>-----------------   31.01 %
-JavaScript             201 hrs 4 mins  >>>>>>>------------------   26.12 %
+JavaScript             201 hrs 9 mins  >>>>>>>------------------   26.12 %
 XML                    108 hrs 27 mins >>>>---------------------   14.08 %
 HTML                   103 hrs 2 mins  >>>----------------------   13.38 %
-Java                   54 hrs 56 mins  >>-----------------------   07.14 %
+Java                   54 hrs 56 mins  >>-----------------------   07.13 %
 CSS                    28 hrs 48 mins  >------------------------   03.74 %
 Bash                   16 hrs 47 mins  >------------------------   02.18 %
 JSON                   6 hrs 17 mins   -------------------------   00.82 %
