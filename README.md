@@ -6,7 +6,8 @@
 🖥️ Programador de aplicaciones web, desktop, android, iOS e hibridas </br>
 🙎🏻 Docente </br>
 💻 Usuario Linux</br>
-📨 Contacto: exequiel.miranda314@gmail.com
+📨 Contacto: exequiel.miranda314@gmail.com</br>
+😎 Backend senior
 </br>
 </br>
 </br>
