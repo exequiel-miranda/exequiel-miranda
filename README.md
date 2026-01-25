@@ -19,6 +19,8 @@
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=101010)]()
 [![Java](https://img.shields.io/badge/Java-B32629?style=for-the-badge&logo=ImageJ&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Node](https://img.shields.io/badge/Node-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
+[![Express](https://img.shields.io/badge/Express-F7DF1E?style=for-the-badge&logo=express&logoColor=white&labelColor=101010)]()
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white&labelColor=101010)]()
 [![GitHUb](https://img.shields.io/badge/GitHUb-FC6D26?style=for-the-badge&logo=GitHUb&logoColor=white&labelColor=101010)]()
