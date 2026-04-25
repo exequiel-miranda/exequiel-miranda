@@ -40,11 +40,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2023 - To: 22 April 2026
+From: 03 December 2023 - To: 23 April 2026
 
-JavaScript             268 hrs 57 mins       >>>>>>>>-----------------   31.13 %
-Kotlin                 238 hrs 49 mins       >>>>>>>------------------   27.64 %
-XML                    108 hrs 35 mins       >>>----------------------   12.57 %
+JavaScript             269 hrs 7 mins        >>>>>>>>-----------------   31.14 %
+Kotlin                 238 hrs 49 mins       >>>>>>>------------------   27.63 %
+XML                    108 hrs 35 mins       >>>----------------------   12.56 %
 HTML                   104 hrs 30 mins       >>>----------------------   12.09 %
 Java                   54 hrs 56 mins        >>-----------------------   06.36 %
 CSS                    33 hrs 24 mins        >------------------------   03.87 %
