@@ -40,7 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 December 2023 - To: 30 May 2026
+From: 03 December 2023 - To: 31 May 2026
 
 JavaScript             313 hrs 4 mins        >>>>>>>>>----------------   34.35 %
 Kotlin                 238 hrs 49 mins       >>>>>>>------------------   26.20 %
