@@ -7,7 +7,7 @@
 🙎🏻 Docente </br>
 💻 Usuario Linux</br>
 📨 Contacto: exequiel.miranda314@gmail.com</br>
-😎 Backend senior
+
 </br>
 </br>
 </br>
